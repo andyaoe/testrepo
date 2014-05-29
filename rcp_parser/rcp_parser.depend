@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1385320478 source:c:\projects\rcp_parser\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1398285959 source:c:\projects\rcp_parser\rcpparser.c
+	"RcpParser.h"
+
+1398286990 c:\projects\rcp_parser\rcpparser.h
+	"stdint.h"
+
+1398286977 c:\projects\rcp_parser\stdint.h
+
+1400111902 source:c:\projects\f5-firmware\shared\rcp_parser\main.c
+	<stdio.h>
+	<stdlib.h>
+	"RcpParser.h"
+	<string.h>
+
+1400111509 source:c:\projects\f5-firmware\shared\rcp_parser\rcpparser.c
+	"RcpParser.h"
+	<stdlib.h>
+	<string.h>
+	"str_utils.h"
+
+1400111043 c:\projects\f5-firmware\shared\rcp_parser\rcpparser.h
+	"stdint.h"
+
+1400108648 c:\projects\f5-firmware\shared\rcp_parser\stdint.h
+
+1400024237 c:\projects\f5-firmware\shared\utils\str_utils.h
+	"common.h"
+	"stdint.h"
+
+1400024237 c:\projects\f5-firmware\shared\utils\common.h
+
