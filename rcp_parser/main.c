@@ -3,6 +3,8 @@
 #include "RcpParser.h"
 #include <string.h>
 
+//adding text
+
 typedef struct ResultCodeDefinition
 {
     int16_t code;
